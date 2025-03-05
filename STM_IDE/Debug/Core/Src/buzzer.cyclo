@@ -1,0 +1,7 @@
+buzzer.c:24:6:BUZZER_Init	1
+buzzer.c:37:6:BUZZER_PWM_SetPercent	2
+buzzer.c:60:6:BUZZER_On	1
+buzzer.c:86:6:BUZZER_Off	1
+buzzer.c:110:6:BuzzerToggle	2
+buzzer.c:146:6:BUZZER_Go	1
+buzzer.c:162:6:BUZZER_Handler	4
